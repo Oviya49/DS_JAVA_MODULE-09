@@ -14,8 +14,8 @@ To simulate the functioning of a ticket counter that operates on a First-In-Firs
 
 ## Program:
 ```
-Developed by: Nalini P
-Register Number: 212223220063 
+Developed by: OVIYA N
+Register Number: 212223040140
 ```
 
 ```
