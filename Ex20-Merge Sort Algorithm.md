@@ -89,6 +89,7 @@ public class Solution {
 
 ## Output:
 <img width="561" height="182" alt="image" src="https://github.com/user-attachments/assets/8909207f-3220-4841-8649-20fd9285092e" />
+
 ## Result:
 The program has been successfully implemented and executed.
 It sorts the given array of integers in ascending order using the Merge Sort algorithm with a time complexity of O(n log n) and minimal extra space.
